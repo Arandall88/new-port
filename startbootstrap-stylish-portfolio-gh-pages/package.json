@@ -3,7 +3,9 @@
     "name": "startbootstrap-stylish-portfolio",
     "version": "5.0.8",
     "scripts": {
-        "start": "node_modules/.bin/gulp watch"
+        "start": "node_modules/.bin/gulp watch",
+        "predeploy" : "npm run build",
+        "deploy": "gh.pages -d build"
     },
     "description": "A stylish portfolio HTML template built with Bootstrap",
     "keywords": [
@@ -14,7 +16,7 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/themes/stylish-portfolio",
+    "homepage": "https://arandall88.github.io/new-port/",
     "bugs": {
         "url": "https://github.com/StartBootstrap/startbootstrap-stylish-portfolio/issues",
         "email": "feedback@startbootstrap.com"
