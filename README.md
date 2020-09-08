@@ -2,3 +2,9 @@
 
 ###
 This is another version of my professional portfolio. Used React Bootstrap template and rearranged to make it my own.
+
+#
+To start 
+download code 
+npm install
+npm run start
