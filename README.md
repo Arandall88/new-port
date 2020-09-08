@@ -1,6 +1,7 @@
-![port-profile](https://user-images.githubusercontent.com/59499644/92531538-1aabc380-f1f4-11ea-8098-80fe4a113e73.jpg)
 ## Professional Portfolio
 
+
+![port-profile](https://user-images.githubusercontent.com/59499644/92531538-1aabc380-f1f4-11ea-8098-80fe4a113e73.jpg)
 
 
 ### This is another version of my professional portfolio highlighting my skills and personality. Used React Bootstrap template and rearranged to make it my own.
